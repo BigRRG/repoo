@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Kodi BRG – Téléchargements</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: #eee;
+            padding: 40px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        a {
+            color: #4CAF50;
+            font-size: 18px;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .box {
+            background: #222;
+            padding: 20px;
+            border-radius: 8px;
+            width: 400px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kodi BRG – Téléchargements</h1>
+    <p>Voici les fichiers ZIP disponibles :</p>
+
+    <div class="box">
+        <ul>
+            <li><a href="BRG.zip" download>📦 Télécharger BRG.zip</a></li>
+            <li><a href="BRG2.zip" download>📦 Télécharger BRG2.zip</a></li>
+            <li><a href="BRG3.zip" download>📦 Télécharger BRG3.zip</a></li>
+        </ul>
+    </div>
+
+    <p>Modifie les noms selon les fichiers présents dans ton dépôt.</p>
+
+</body>
+</html>
